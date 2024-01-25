@@ -1,0 +1,45 @@
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\05 - Create Methods\P-03 ( Methods that Return Values )\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\bin\Debug\net6.0\ChallengedProject.exe
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\05 - Create Methods\P-03 ( Methods that Return Values )\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\bin\Debug\net6.0\ChallengedProject.deps.json
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\05 - Create Methods\P-03 ( Methods that Return Values )\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\bin\Debug\net6.0\ChallengedProject.runtimeconfig.json
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\05 - Create Methods\P-03 ( Methods that Return Values )\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\bin\Debug\net6.0\ChallengedProject.dll
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\05 - Create Methods\P-03 ( Methods that Return Values )\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\bin\Debug\net6.0\ChallengedProject.pdb
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\05 - Create Methods\P-03 ( Methods that Return Values )\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\obj\Debug\net6.0\ChallengedProject.csproj.AssemblyReference.cache
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\05 - Create Methods\P-03 ( Methods that Return Values )\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\obj\Debug\net6.0\ChallengedProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\05 - Create Methods\P-03 ( Methods that Return Values )\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\obj\Debug\net6.0\ChallengedProject.AssemblyInfoInputs.cache
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\05 - Create Methods\P-03 ( Methods that Return Values )\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\obj\Debug\net6.0\ChallengedProject.AssemblyInfo.cs
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\05 - Create Methods\P-03 ( Methods that Return Values )\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\obj\Debug\net6.0\ChallengedProject.csproj.CoreCompileInputs.cache
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\05 - Create Methods\P-03 ( Methods that Return Values )\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\obj\Debug\net6.0\ChallengedProject.dll
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\05 - Create Methods\P-03 ( Methods that Return Values )\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\obj\Debug\net6.0\refint\ChallengedProject.dll
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\05 - Create Methods\P-03 ( Methods that Return Values )\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\obj\Debug\net6.0\ChallengedProject.pdb
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\05 - Create Methods\P-03 ( Methods that Return Values )\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\obj\Debug\net6.0\ChallengedProject.genruntimeconfig.cache
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\05 - Create Methods\P-03 ( Methods that Return Values )\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\obj\Debug\net6.0\ref\ChallengedProject.dll
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\05 - Create Methods\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\bin\Debug\net6.0\ChallengedProject.exe
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\05 - Create Methods\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\bin\Debug\net6.0\ChallengedProject.deps.json
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\05 - Create Methods\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\bin\Debug\net6.0\ChallengedProject.runtimeconfig.json
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\05 - Create Methods\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\bin\Debug\net6.0\ChallengedProject.dll
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\05 - Create Methods\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\bin\Debug\net6.0\ChallengedProject.pdb
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\05 - Create Methods\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\obj\Debug\net6.0\ChallengedProject.csproj.AssemblyReference.cache
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\05 - Create Methods\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\obj\Debug\net6.0\ChallengedProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\05 - Create Methods\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\obj\Debug\net6.0\ChallengedProject.AssemblyInfoInputs.cache
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\05 - Create Methods\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\obj\Debug\net6.0\ChallengedProject.AssemblyInfo.cs
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\05 - Create Methods\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\obj\Debug\net6.0\ChallengedProject.csproj.CoreCompileInputs.cache
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\05 - Create Methods\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\obj\Debug\net6.0\ChallengedProject.dll
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\05 - Create Methods\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\obj\Debug\net6.0\refint\ChallengedProject.dll
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\05 - Create Methods\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\obj\Debug\net6.0\ChallengedProject.pdb
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\05 - Create Methods\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\obj\Debug\net6.0\ChallengedProject.genruntimeconfig.cache
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\05 - Create Methods\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\obj\Debug\net6.0\ref\ChallengedProject.dll
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\Free Code Camp\4 - Mini Game\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\bin\Debug\net6.0\ChallengedProject.exe
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\Free Code Camp\4 - Mini Game\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\bin\Debug\net6.0\ChallengedProject.deps.json
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\Free Code Camp\4 - Mini Game\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\bin\Debug\net6.0\ChallengedProject.runtimeconfig.json
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\Free Code Camp\4 - Mini Game\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\bin\Debug\net6.0\ChallengedProject.dll
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\Free Code Camp\4 - Mini Game\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\bin\Debug\net6.0\ChallengedProject.pdb
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\Free Code Camp\4 - Mini Game\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\obj\Debug\net6.0\ChallengedProject.csproj.AssemblyReference.cache
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\Free Code Camp\4 - Mini Game\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\obj\Debug\net6.0\ChallengedProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\Free Code Camp\4 - Mini Game\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\obj\Debug\net6.0\ChallengedProject.AssemblyInfoInputs.cache
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\Free Code Camp\4 - Mini Game\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\obj\Debug\net6.0\ChallengedProject.AssemblyInfo.cs
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\Free Code Camp\4 - Mini Game\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\obj\Debug\net6.0\ChallengedProject.csproj.CoreCompileInputs.cache
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\Free Code Camp\4 - Mini Game\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\obj\Debug\net6.0\ChallengedProject.dll
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\Free Code Camp\4 - Mini Game\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\obj\Debug\net6.0\refint\ChallengedProject.dll
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\Free Code Camp\4 - Mini Game\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\obj\Debug\net6.0\ChallengedProject.pdb
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\Free Code Camp\4 - Mini Game\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\obj\Debug\net6.0\ChallengedProject.genruntimeconfig.cache
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\Free Code Camp\4 - Mini Game\Challenge Project - Create a Mini-Game\CsharpProjects\ChallengedProject\obj\Debug\net6.0\ref\ChallengedProject.dll

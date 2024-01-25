@@ -1,0 +1,45 @@
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\if elif if - P 04\CsharpProjects\TestProject\bin\Debug\net6.0\TestProject.exe
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\if elif if - P 04\CsharpProjects\TestProject\bin\Debug\net6.0\TestProject.deps.json
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\if elif if - P 04\CsharpProjects\TestProject\bin\Debug\net6.0\TestProject.runtimeconfig.json
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\if elif if - P 04\CsharpProjects\TestProject\bin\Debug\net6.0\TestProject.dll
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\if elif if - P 04\CsharpProjects\TestProject\bin\Debug\net6.0\TestProject.pdb
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\if elif if - P 04\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.csproj.AssemblyReference.cache
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\if elif if - P 04\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\if elif if - P 04\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.AssemblyInfoInputs.cache
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\if elif if - P 04\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.AssemblyInfo.cs
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\if elif if - P 04\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.csproj.CoreCompileInputs.cache
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\if elif if - P 04\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.dll
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\if elif if - P 04\CsharpProjects\TestProject\obj\Debug\net6.0\refint\TestProject.dll
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\if elif if - P 04\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.pdb
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\if elif if - P 04\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.genruntimeconfig.cache
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\if elif if - P 04\CsharpProjects\TestProject\obj\Debug\net6.0\ref\TestProject.dll
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\02 - Create and Run Simple C# Console Applications\P_03 - The Student Grading application (if-else)\CsharpProjects\TestProject\bin\Debug\net6.0\TestProject.exe
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\02 - Create and Run Simple C# Console Applications\P_03 - The Student Grading application (if-else)\CsharpProjects\TestProject\bin\Debug\net6.0\TestProject.deps.json
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\02 - Create and Run Simple C# Console Applications\P_03 - The Student Grading application (if-else)\CsharpProjects\TestProject\bin\Debug\net6.0\TestProject.runtimeconfig.json
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\02 - Create and Run Simple C# Console Applications\P_03 - The Student Grading application (if-else)\CsharpProjects\TestProject\bin\Debug\net6.0\TestProject.dll
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\02 - Create and Run Simple C# Console Applications\P_03 - The Student Grading application (if-else)\CsharpProjects\TestProject\bin\Debug\net6.0\TestProject.pdb
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\02 - Create and Run Simple C# Console Applications\P_03 - The Student Grading application (if-else)\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.csproj.AssemblyReference.cache
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\02 - Create and Run Simple C# Console Applications\P_03 - The Student Grading application (if-else)\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\02 - Create and Run Simple C# Console Applications\P_03 - The Student Grading application (if-else)\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.AssemblyInfoInputs.cache
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\02 - Create and Run Simple C# Console Applications\P_03 - The Student Grading application (if-else)\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.AssemblyInfo.cs
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\02 - Create and Run Simple C# Console Applications\P_03 - The Student Grading application (if-else)\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.csproj.CoreCompileInputs.cache
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\02 - Create and Run Simple C# Console Applications\P_03 - The Student Grading application (if-else)\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.dll
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\02 - Create and Run Simple C# Console Applications\P_03 - The Student Grading application (if-else)\CsharpProjects\TestProject\obj\Debug\net6.0\refint\TestProject.dll
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\02 - Create and Run Simple C# Console Applications\P_03 - The Student Grading application (if-else)\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.pdb
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\02 - Create and Run Simple C# Console Applications\P_03 - The Student Grading application (if-else)\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.genruntimeconfig.cache
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\02 - Create and Run Simple C# Console Applications\P_03 - The Student Grading application (if-else)\CsharpProjects\TestProject\obj\Debug\net6.0\ref\TestProject.dll
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\Free Code Camp\1 - Calculate Final GPA\CsharpProjects\TestProject\bin\Debug\net6.0\TestProject.exe
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\Free Code Camp\1 - Calculate Final GPA\CsharpProjects\TestProject\bin\Debug\net6.0\TestProject.deps.json
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\Free Code Camp\1 - Calculate Final GPA\CsharpProjects\TestProject\bin\Debug\net6.0\TestProject.runtimeconfig.json
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\Free Code Camp\1 - Calculate Final GPA\CsharpProjects\TestProject\bin\Debug\net6.0\TestProject.dll
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\Free Code Camp\1 - Calculate Final GPA\CsharpProjects\TestProject\bin\Debug\net6.0\TestProject.pdb
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\Free Code Camp\1 - Calculate Final GPA\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.csproj.AssemblyReference.cache
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\Free Code Camp\1 - Calculate Final GPA\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\Free Code Camp\1 - Calculate Final GPA\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.AssemblyInfoInputs.cache
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\Free Code Camp\1 - Calculate Final GPA\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.AssemblyInfo.cs
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\Free Code Camp\1 - Calculate Final GPA\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.csproj.CoreCompileInputs.cache
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\Free Code Camp\1 - Calculate Final GPA\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.dll
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\Free Code Camp\1 - Calculate Final GPA\CsharpProjects\TestProject\obj\Debug\net6.0\refint\TestProject.dll
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\Free Code Camp\1 - Calculate Final GPA\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.pdb
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\Free Code Camp\1 - Calculate Final GPA\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.genruntimeconfig.cache
+E:\Programs\C#\C# Tutorials\FreeCodeCamp\Free Code Camp\1 - Calculate Final GPA\CsharpProjects\TestProject\obj\Debug\net6.0\ref\TestProject.dll

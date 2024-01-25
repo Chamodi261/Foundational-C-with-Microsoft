@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Programs\\C#\\C# Tutorials\\FreeCodeCamp\\Free Code Camp\\4 - Mini Game\\Challenge Project - Create a Mini-Game\\CsharpProjects\\ChallengedProject\\ChallengedProject.csproj": {}
+  },
+  "projects": {
+    "E:\\Programs\\C#\\C# Tutorials\\FreeCodeCamp\\Free Code Camp\\4 - Mini Game\\Challenge Project - Create a Mini-Game\\CsharpProjects\\ChallengedProject\\ChallengedProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Programs\\C#\\C# Tutorials\\FreeCodeCamp\\Free Code Camp\\4 - Mini Game\\Challenge Project - Create a Mini-Game\\CsharpProjects\\ChallengedProject\\ChallengedProject.csproj",
+        "projectName": "ChallengedProject",
+        "projectPath": "E:\\Programs\\C#\\C# Tutorials\\FreeCodeCamp\\Free Code Camp\\4 - Mini Game\\Challenge Project - Create a Mini-Game\\CsharpProjects\\ChallengedProject\\ChallengedProject.csproj",
+        "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
+        "outputPath": "E:\\Programs\\C#\\C# Tutorials\\FreeCodeCamp\\Free Code Camp\\4 - Mini Game\\Challenge Project - Create a Mini-Game\\CsharpProjects\\ChallengedProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
